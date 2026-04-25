@@ -1,0 +1,19 @@
+D:\Program Files (x86)\Microsoft Visual Studio\Use loop and array\Use loop and array\bin\Debug\net10.0\Use loop and array.exe
+D:\Program Files (x86)\Microsoft Visual Studio\Use loop and array\Use loop and array\bin\Debug\net10.0\Use loop and array.deps.json
+D:\Program Files (x86)\Microsoft Visual Studio\Use loop and array\Use loop and array\bin\Debug\net10.0\Use loop and array.runtimeconfig.json
+D:\Program Files (x86)\Microsoft Visual Studio\Use loop and array\Use loop and array\bin\Debug\net10.0\Use loop and array.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Use loop and array\Use loop and array\bin\Debug\net10.0\Use loop and array.pdb
+D:\Program Files (x86)\Microsoft Visual Studio\Use loop and array\Use loop and array\obj\Debug\net10.0\Use loop and array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files (x86)\Microsoft Visual Studio\Use loop and array\Use loop and array\obj\Debug\net10.0\Use loop and array.AssemblyInfoInputs.cache
+D:\Program Files (x86)\Microsoft Visual Studio\Use loop and array\Use loop and array\obj\Debug\net10.0\Use loop and array.AssemblyInfo.cs
+D:\Program Files (x86)\Microsoft Visual Studio\Use loop and array\Use loop and array\obj\Debug\net10.0\Use loop and array.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\Microsoft Visual Studio\Use loop and array\Use loop and array\obj\Debug\net10.0\Use loop and array.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Use loop and array\Use loop and array\obj\Debug\net10.0\refint\Use loop and array.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Use loop and array\Use loop and array\obj\Debug\net10.0\Use loop and array.pdb
+D:\Program Files (x86)\Microsoft Visual Studio\Use loop and array\Use loop and array\obj\Debug\net10.0\Use loop and array.genruntimeconfig.cache
+D:\Program Files (x86)\Microsoft Visual Studio\Use loop and array\Use loop and array\obj\Debug\net10.0\ref\Use loop and array.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Use loop and array\Use loop and array\obj\Debug\net10.0\Use loop and array.csproj.AssemblyReference.cache
+D:\Program Files (x86)\Microsoft Visual Studio\Use loop and array\Use loop and array\bin\Debug\net10.0\DocumentFormat.OpenXml.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Use loop and array\Use loop and array\bin\Debug\net10.0\DocumentFormat.OpenXml.Framework.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Use loop and array\Use loop and array\bin\Debug\net10.0\System.IO.Packaging.dll
+D:\Program Files (x86)\Microsoft Visual Studio\Use loop and array\Use loop and array\obj\Debug\net10.0\Use loop.6A51ADFE.Up2Date
