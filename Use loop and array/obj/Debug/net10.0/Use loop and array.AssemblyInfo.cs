@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Use loop and array")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4078b1a2240c1bc54db484ff14b151456e3c24af")]
 [assembly: System.Reflection.AssemblyProductAttribute("Use loop and array")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Use loop and array")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

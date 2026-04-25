@@ -17,3 +17,4 @@ D:\Program Files (x86)\Microsoft Visual Studio\Use loop and array\Use loop and a
 D:\Program Files (x86)\Microsoft Visual Studio\Use loop and array\Use loop and array\bin\Debug\net10.0\DocumentFormat.OpenXml.Framework.dll
 D:\Program Files (x86)\Microsoft Visual Studio\Use loop and array\Use loop and array\bin\Debug\net10.0\System.IO.Packaging.dll
 D:\Program Files (x86)\Microsoft Visual Studio\Use loop and array\Use loop and array\obj\Debug\net10.0\Use loop.6A51ADFE.Up2Date
+D:\Program Files (x86)\Microsoft Visual Studio\Use loop and array\Use loop and array\obj\Debug\net10.0\Use loop and array.sourcelink.json

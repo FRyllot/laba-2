@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Program Files (x86)\\Microsoft Visual Studio\\Use loop and array\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E170461-22E6-8655-6EE8-1E8D3EB878A5}|Use loop and array\\Use loop and array.csproj|d:\\program files (x86)\\microsoft visual studio\\use loop and array\\use loop and array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E170461-22E6-8655-6EE8-1E8D3EB878A5}|Use loop and array\\Use loop and array.csproj|solutionrelative:use loop and array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E170461-22E6-8655-6EE8-1E8D3EB878A5}|Use loop and array\\Use loop and array.csproj|d:\\program files (x86)\\microsoft visual studio\\use loop and array\\use loop and array\\laba_number_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E170461-22E6-8655-6EE8-1E8D3EB878A5}|Use loop and array\\Use loop and array.csproj|solutionrelative:use loop and array\\laba_number_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +14,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Program Files (x86)\\Microsoft Visual Studio\\Use loop and array\\Use loop and array\\Program.cs",
-              "RelativeDocumentMoniker": "Use loop and array\\Program.cs",
-              "ToolTip": "D:\\Program Files (x86)\\Microsoft Visual Studio\\Use loop and array\\Use loop and array\\Program.cs*",
-              "RelativeToolTip": "Use loop and array\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Title": "Laba_number_2.cs",
+              "DocumentMoniker": "D:\\Program Files (x86)\\Microsoft Visual Studio\\Use loop and array\\Use loop and array\\Laba_number_2.cs",
+              "RelativeDocumentMoniker": "Use loop and array\\Laba_number_2.cs",
+              "ToolTip": "D:\\Program Files (x86)\\Microsoft Visual Studio\\Use loop and array\\Use loop and array\\Laba_number_2.cs",
+              "RelativeToolTip": "Use loop and array\\Laba_number_2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-19T21:09:25.812Z",
               "EditorCaption": ""
