@@ -2,28 +2,52 @@
 
 class Program
 {
+    public interface IShape { }
+
+    public class Circle : IShape
+    {
+        public double Radius { get; set; }
+        public Circle(double radius) => Radius = radius;
+    }
+
+    public class Rectangle : IShape
+    {
+        public double Width { get; set; }
+        public double Height { get; set; }
+        public Rectangle(double width, double height) => (Width, Height) = (width, height);
+    }
+
+    public class Triangle : IShape
+    {
+        public double Base { get; set; }
+        public double Height { get; set; }
+        public Triangle(double @base, double height) => (Base, Height) = (@base, height);
+    }
+
     static void Main()
     {
-        Console.Write("Ход игрока 1 (камень, ножницы, бумага): ");
-        string player1 = Console.ReadLine();
-        Console.Write("Ход игрока 2 (камень, ножницы, бумага): ");
-        string player2 = Console.ReadLine();
-        
-        player1 = player1?.ToLower() ?? "";
-        player2 = player2?.ToLower() ?? "";
-
-        string gameResult = (player1, player2) switch
+        IShape[] shapes = new IShape[]
         {
-            ("камень", "ножницы") => "Победил игрок 1",
-            ("камень", "бумага") => "Победил игрок 2",
-            ("ножницы", "бумага") => "Победил игрок 1",
-            ("ножницы", "камень") => "Победил игрок 2",
-            ("бумага", "камень") => "Победил игрок 1",
-            ("бумага", "ножницы") => "Победил игрок 2",
-            (var a, var b) when a == b => "Ничья",
-            _ => "Некорректный ввод"
+            new Circle(5),
+            new Rectangle(4, 6),
+            new Triangle(3, 8),
+            null
         };
 
-        Console.WriteLine(gameResult);
+        foreach (var shape in shapes)
+        {
+            double area = shape switch
+            {
+                Circle c => Math.PI * c.Radius * c.Radius, 
+                Rectangle r => r.Width * r.Height, 
+                Triangle t => 0.5 * t.Base * t.Height, 
+                null => 0, 
+                _ => throw new ArgumentException("Неизвестный тип фигуры") 
+            };
+
+            string shapeType = shape?.GetType().Name ?? "null";
+
+            Console.WriteLine($"Фигура: {shapeType}, Площадь: {area:F2}");
+        }
     }
 }
